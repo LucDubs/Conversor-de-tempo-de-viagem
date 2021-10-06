@@ -1,0 +1,31 @@
+body{
+    background-image: url(/pics/background3.jpg);
+    min-height: 100vh;
+}
+    .Titulo{
+        padding-top: 20px;
+        width: 15%;
+        margin: auto;  
+                
+    }
+    
+    .Descricao{
+        margin: auto;
+        width: 50%;
+        background-color: rgba(92, 95, 199, .5);
+        color: rgba(220, 250, 230);
+        font-size: 20px;
+        padding-bottom: 30px;
+        margin-top: 10px;
+    }
+
+    .Descricao p{
+        font-size: 25px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+
+    .container-principal .imagem{
+        position:absolute;
+
+    }
