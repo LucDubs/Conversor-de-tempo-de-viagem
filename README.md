@@ -9,3 +9,6 @@
 
 3rd preview:
     <img src="pics/pic-funcionamento2.png">
+
+4th preview:
+    <img src="pics/pic-funcionamento3.png">
